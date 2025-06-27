@@ -28,3 +28,6 @@ A fast, cost-effective, and accessible pipeline to generate high-quality 3D digi
 ## 🛠️ Technologies Used
 
 `Python`, `OpenCV`, `FFmpeg`, `rembg`, `COLMAP`, `Instant-NGP`, `CUDA`, `NeRF`, `U2Net`
+
+## 🛠️ Working Sample
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1ilBHrBuHI" frameborder="0" allowfullscreen></iframe>
